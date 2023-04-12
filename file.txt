@@ -4,4 +4,6 @@
 
 Ветка master
 
-Вносим изменения в ветке developer
+
+Вносим изменения в ветке developer Ветка developer
+
